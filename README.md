@@ -1,7 +1,17 @@
- - 👋 Hi, I’m Kris @krisograbek 
- - 👀 I’m interested in Artificial Intelligence, especially NLP
- - 🌱 I’m currently learning NLP with spacy
- - 💞️ I’m looking to collaborate on both linguistic and engineering parts of NLP
+ 
+ ###  👋 Hi, I’m Kris 
+ 
+ 🌱 Learning is my passion. Learning how to Learn is the most important skill
+ 
+ :books: Books are a superpower
+ 
+ :writing_hand: Journaling is my habit. I write about everything. Pen and paper are part of me.
+ 
+ :keyboard: :computer: But I also write on Medium
+ 
+ 👀 I’m interested in Software, Machine Learning, Deep Learning, NLP
+  
+ 💞️ Colaborate with me about Learning, Artificial Intelligence, Personal Growth
 
 
 ## Connect with me
@@ -43,7 +53,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="48">  
 </p>
   
