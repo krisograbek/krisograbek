@@ -68,11 +68,11 @@
 
 ## Recent Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/1" alt="Recent Article 1">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek-nlp/2" alt="Recent Article 2">
  
 ## Full Stack Machine Learning Projects
   
