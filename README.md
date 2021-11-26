@@ -64,7 +64,7 @@
   
 ## GitHub Stats
 
-[![Kris's github stats](https://github-readme-stats.vercel.app/api?username=krisograbek&count_private=true&show_icons=true&theme=prussian&hide_rank=false&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Kris's github stats](https://github-readme-stats.vercel.app/api?username=krisograbek&count_private=true&show_icons=true&theme=prussian&hide_rank=false&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Articles
 
