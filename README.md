@@ -19,6 +19,9 @@
 <a href="https://www.linkedin.com/in/kris-ograbek-nlp/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.youtube.com/channel/UCyi_Df2NF35qjIV0LdtUY9w">
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <a href="https://kris-ograbek-nlp.medium.com/">
 	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
