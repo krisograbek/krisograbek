@@ -78,14 +78,18 @@
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/2" alt="Recent Article 2">
  
-## Full Stack Machine Learning Projects
+## Full Stack Data Science Projects
   
 <a href="https://github.com/krisograbek/hotdog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=hotdog&theme=prussian" />
 </a>
+<a href="https://github.com/krisograbek/text-preprocessing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=text-preprocessing-app&theme=prussian" />
+</a>
 <a href="https://github.com/krisograbek/iris-fsml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=iris-fsml&theme=prussian" />
 </a>
+
 
 ## Templates for Full Stack Projects
 
