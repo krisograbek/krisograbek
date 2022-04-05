@@ -13,7 +13,6 @@
   
  💞️ Colaborate with me about Learning, Artificial Intelligence, Personal Growth
 
-
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/kris-ograbek-nlp/">
@@ -37,6 +36,10 @@
 <a href="https://www.kaggle.com/ograbekk">
 	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
+
+### Stack Exchange
+
+<a href="https://stackexchange.com/users/20690346/krisograbek"><img src="https://stackexchange.com/users/flair/20690346.png" width="208" height="58" alt="profile for krisograbek on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for krisograbek on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ## Software
 
