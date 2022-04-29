@@ -48,25 +48,31 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="48">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="48">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="48">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="48">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="48">
   
-
-  <!-- Less important :)   -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="48">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="48">
+  
 
+  <!-- Less important :)   
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="48">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="48">
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="48">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="48">
+-->
+	
 </p>
   
 ## GitHub Stats
@@ -85,18 +91,11 @@
 		
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/4" alt="Recent Article 4">
  
-## Full Stack Data Science Projects
-  
-<a href="https://github.com/krisograbek/hotdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=hotdog&theme=prussian" />
-</a>
-<a href="https://github.com/krisograbek/text-preprocessing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=text-preprocessing-app&theme=prussian" />
-</a>
-<a href="https://github.com/krisograbek/iris-fsml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=iris-fsml&theme=prussian" />
-</a>
+## Web 3 Apps Starter kits
 
+<a href="https://github.com/krisograbek/ts-hh-web3-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=ts-hh-web3-template&theme=prussian" />
+</a>	
 
 ## Templates for Full Stack Projects
 
@@ -109,6 +108,23 @@
 <a href="https://github.com/krisograbek/text-preprocessing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=text-preprocessing&theme=prussian" />
 </a>
+	
+	
+<!-- 
+
+
+## Full Stack Data Science Projects
+  
+<a href="https://github.com/krisograbek/hotdog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=hotdog&theme=prussian" />
+</a>
+<a href="https://github.com/krisograbek/text-preprocessing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=text-preprocessing-app&theme=prussian" />
+</a>
+<a href="https://github.com/krisograbek/iris-fsml">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=iris-fsml&theme=prussian" />
+</a>
+--> 
   
 <!---
 krisograbek/krisograbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
