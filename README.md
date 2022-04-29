@@ -1,17 +1,17 @@
  
  ###  👋 Hi, I’m Kris 
  
- 🌱 Learning is my passion. Learning how to Learn is the most important skill
+ 🌱:books: earning is my passion. Learning how to Learn is the best long-term investment
  
- :books: Books are a superpower
+ :writing_hand: Journaling is my habit. I write about everything. Pen and paper are my company
  
- :writing_hand: Journaling is my habit. I write about everything. Pen and paper are part of me.
+ :keyboard: :computer: For technical writing, checkout my <a href="https://kris-ograbek-nlp.medium.com/">
+	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
  
- :keyboard: :computer: But I also write on Medium
- 
- 👀 I’m interested in Software, Machine Learning, Deep Learning, NLP
+ 👀 I’m interested in Software, Web Development, Blockchain
   
- 💞️ Colaborate with me about Learning, Artificial Intelligence, Personal Growth
+ 💞️ Learning, Personal Growth, Programming, Blockchain
 
 ## Connect with me
 
