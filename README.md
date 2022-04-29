@@ -1,7 +1,7 @@
  
  ###  👋 Hi, I’m Kris 
  
- 🌱:books: earning is my passion. Learning how to Learn is the best long-term investment
+ 🌱:books: Learning is my passion. Learning how to Learn is the best long-term investment
  
  :writing_hand: Journaling is my habit. I write about everything. Pen and paper are my company
  
