@@ -5,7 +5,7 @@
  
  :writing_hand: Journaling is my habit. I write about everything. Pen and paper are my company
  
- :keyboard: :computer: For technical writing, checkout my <a href="https://kris-ograbek-nlp.medium.com/">
+ :keyboard: :computer: For technical writing, checkout my <a href="https://kris-ograbek.medium.com/">
 	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
  
@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/channel/UCyi_Df2NF35qjIV0LdtUY9w">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://kris-ograbek-nlp.medium.com/">
+<a href="https://kris-ograbek.medium.com/">
 	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/15191870/krisograbek/">
