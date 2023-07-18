@@ -9,9 +9,9 @@
 	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
  
- 👀 I’m interested in Software, Web Development, Blockchain
+ 👀 I’m interested in Large Language Models & Prompt Engineering
   
- 💞️ Learning, Personal Growth, Programming, Blockchain
+ 💞️ Creating, Learning & Personal Growth
 
 ## Connect with me
 
