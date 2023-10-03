@@ -49,16 +49,18 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48">
-
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="48">
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" height="48">
+ 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48">
+
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="48">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="48">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48">
   
@@ -98,30 +100,24 @@
 		
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/4" alt="Recent Article 4">
  
-## Web 3 Apps Starter kits
 
-<a href="https://github.com/krisograbek/ts-hh-web3-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=ts-hh-web3-template&theme=prussian" />
-</a>	
-
-## Templates for Full Stack Projects
-
-<a href="https://github.com/krisograbek/react-flask-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=react-flask-template&theme=prussian" />
-</a>
 	
-## Useful Repos
+## LangChain Tutorials
 
 <a href="https://github.com/krisograbek/text-preprocessing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=text-preprocessing&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=langchain-tutorials&theme=prussian" />
 </a>
 	
 	
 <!-- 
+ 
+## Templates for Full Stack Projects
+<a href="https://github.com/krisograbek/react-flask-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=react-flask-template&theme=prussian" />
+</a>
 
 
 ## Full Stack Data Science Projects
-  
 <a href="https://github.com/krisograbek/hotdog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=hotdog&theme=prussian" />
 </a>
