@@ -29,6 +29,9 @@
 </a>
 <a href="https://github.com/krisograbek">
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+
+<!-- Less important :)   
 </a>
 <a href="https://www.hackerrank.com/krzysztof_ograb1">
 	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
@@ -36,6 +39,7 @@
 <a href="https://www.kaggle.com/ograbekk">
 	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
+-->
 
 ### Stack Exchange
 
@@ -45,24 +49,27 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48">
+
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="48">
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="48">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="48">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="48">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="48">
   
 
   <!-- Less important :)   
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="48">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="48">
