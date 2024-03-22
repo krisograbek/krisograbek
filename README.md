@@ -1,15 +1,15 @@
  
  ###  👋 Hi, I’m Kris 
  
- 🌱:books: Learning is my passion. Learning how to Learn is the best long-term investment
+ 👀 I’m loving AI, especially Large Language Models.
+ 
+ 🌱 Learning is my passion. Learning how to Learn is the best long-term investment
  
  :writing_hand: Journaling is my habit. I write about everything. Pen and paper are my company
  
- :keyboard: :computer: For technical writing, checkout my <a href="https://kris-ograbek.medium.com/">
-	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+ :keyboard: :computer: For technical writing, checkout my [Medium](https://kris-ograbek.medium.com/)
  
- 👀 I’m interested in Large Language Models & Prompt Engineering
+
   
  💞️ Creating, Learning & Personal Growth
 
@@ -88,6 +88,7 @@
 
 [![Kris's github stats](https://github-readme-stats.vercel.app/api?username=krisograbek&count_private=true&show_icons=true&theme=prussian&hide_rank=false&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
+  <!-- Articles not working...
 ## Recent Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/0" alt="Recent Article 0">
@@ -99,7 +100,8 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/3" alt="Recent Article 3">
 		
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kris-ograbek/4" alt="Recent Article 4">
- 
+
+-->
 
 	
 ## LangChain Tutorials
