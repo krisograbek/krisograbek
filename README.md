@@ -106,7 +106,7 @@
 	
 ## LangChain Tutorials
 
-<a href="https://github.com/krisograbek/text-preprocessing">
+<a href="https://github.com/krisograbek/langchain_tutorials">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisograbek&repo=langchain_tutorials&theme=prussian" />
 </a>
 	
